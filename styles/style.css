@@ -1,0 +1,32 @@
+#main {
+	background-color: grey;
+	width: 1265px;
+	height: 800px;
+}
+
+.menu_button {
+	background-color: #80ff00;
+	padding-left: 7px;
+	padding-right: 6px;
+	padding-top: 5px;
+	width: 240px;
+	height: 100px;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+	color: #bf00ff;
+}
+.menu_button:hover {
+	background-color: #00ffff;
+	padding-left: 7px;
+	padding-right: 6px;
+	padding-top: 5px;
+	width: 240px;
+	height: 100px;
+	float: left;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #0000ff;
+	font-weight: bold;
+}
