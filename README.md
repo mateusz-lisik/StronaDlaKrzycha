@@ -1,3 +1,3 @@
 # StronaDlaKrzycha
-Projekt prywatny, otwrty w celu udostępnienia.
+Projekt prywatny, otwarty w celu udostępnienia.
 Zabrania się kopiowania bez zgody autora.
