@@ -1,32 +1,85 @@
 #main {
 	background-color: grey;
-	width: 1265px;
-	height: 800px;
+	height: 1000px;
+	width: 1800px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .menu_button {
-	background-color: #80ff00;
-	padding-left: 7px;
-	padding-right: 6px;
-	padding-top: 5px;
-	width: 240px;
-	height: 100px;
+	background-color: #cccccc;
+	padding: 24px;
+	margin: 5px;
+	width: 96px;
+	height: 96px;
 	float: left;
 	text-align: center;
-	text-decoration: none;
-	color: #bf00ff;
+	color: #666666;
+	font-size: 35px;
+	border-left: 2px solid #ccc;
+	border-right: 2px solid #ccc;
+	border-top: 2px solid #ccc;
+	border-bottom: 2px solid #ccc;
+	box-shadow: solid 2px grey;
+	display: block;
 }
+
 .menu_button:hover {
-	background-color: #00ffff;
-	padding-left: 7px;
-	padding-right: 6px;
-	padding-top: 5px;
-	width: 240px;
-	height: 100px;
-	float: left;
+	background-color: #bbbbbb;
 	text-align: center;
 	text-transform: uppercase;
-	text-decoration: none;
-	color: #0000ff;
+	color: #555555;
 	font-weight: bold;
+	font-size: 40px;
+	display: block;
+}
+
+#menubox {
+	background-color: grey;
+	height: 158px;
+	width: 790px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+	display: block;
+}
+
+html {
+	background-color: grey;
+}
+
+a {
+	text-decoration: none;
+	display: block;
+}
+
+.box {
+	background-color: lightgrey;
+	width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	margin-bottom: 50px;
+	height: 686px;
+}
+
+.smallBox {
+	margin-left: 40px;
+	margin-right: 30px;
+	width: 460px;
+	background-color: orange;
+	height: 456px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	float: left;
+	text-align: center;
+	padding-top: 130px;
+}
+
+.smallBox:hover {
+	background-color: lightgreen;
+}
+
+h1 {
+	font-size: 35px;
 }
