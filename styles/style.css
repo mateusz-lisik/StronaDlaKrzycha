@@ -15,7 +15,7 @@
 	float: left;
 	text-align: center;
 	color: #666666;
-	font-size: 35px;
+	font-size: 75px;
 	border-left: 2px solid #ccc;
 	border-right: 2px solid #ccc;
 	border-top: 2px solid #ccc;
@@ -30,7 +30,7 @@
 	text-transform: uppercase;
 	color: #555555;
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 75px;
 	display: block;
 }
 
@@ -67,7 +67,7 @@ a {
 	margin-left: 40px;
 	margin-right: 30px;
 	width: 460px;
-	background-color: orange;
+	background-color: #306ed1;
 	height: 456px;
 	margin-top: 50px;
 	margin-bottom: 0px;
@@ -77,7 +77,7 @@ a {
 }
 
 .smallBox:hover {
-	background-color: lightgreen;
+	background-color: #4f85db;
 }
 
 h1 {
